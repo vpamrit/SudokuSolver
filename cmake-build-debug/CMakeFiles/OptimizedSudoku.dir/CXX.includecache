@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vishn/Desktop/GitHubRepos/OptimizedSudoku/Sudoku.cpp
+Sudoku.h
+C:/Users/vishn/Desktop/GitHubRepos/OptimizedSudoku/Sudoku.h
+algorithm
+-
+cmath
+-
+fstream
+-
+iostream
+-
+
+C:/Users/vishn/Desktop/GitHubRepos/OptimizedSudoku/Sudoku.h
+string
+-
+vector
+-
+
+C:/Users/vishn/Desktop/GitHubRepos/OptimizedSudoku/test_sudoku.cpp
+iostream
+-
+string
+-
+time.h
+-
+Sudoku.h
+C:/Users/vishn/Desktop/GitHubRepos/OptimizedSudoku/Sudoku.h
+
